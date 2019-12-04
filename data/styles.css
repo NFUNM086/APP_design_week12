@@ -15,7 +15,14 @@
 }
 .ellipse {
 }
+.image {
+}
 .placeholder {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -67,6 +74,8 @@
 }
 .line {
 }
+.arrow {
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -75,7 +84,17 @@
   color:#000000;
   text-align:left;
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+._流程形状 {
+}
 .icon {
 }
 .flow_shape {
+}
+._连接线 {
+}
+.icon1 {
 }
